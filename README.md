@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma calculadora simples de IMC _(Índice de massa corporal)_
+Focus Timer etilo Pomodoro
 
 - [Acesse o projeto finalizado, online](https://thiagocaltoe.github.io/Focus-Timer)
 
